@@ -60,6 +60,25 @@ The dataset includes:
 
 ---
 
+## 📊 Final Business Insights
+
+- High discount products are not always the most cost-efficient per gram
+- Certain categories consistently offer higher average discounts
+- Inventory weight is concentrated in a few categories
+- Some high-MRP items are frequently out of stock, indicating demand gaps
+
+## 📌 Conclusion
+
+This analysis helps in identifying pricing strategies, inventory optimization opportunities, and category-level performance for better business decision-making.
+
+---
+
+## 💼 Business Value
+
+- Helps identify best-value products for customers
+- Assists in optimizing inventory management
+- Supports pricing and discount strategy decisions
+
 ## 👤 
 Ekamdeep Singh
 
